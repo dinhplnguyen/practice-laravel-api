@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Models\Student;
-
+use App\Http\Controllers\api\StudentsController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
