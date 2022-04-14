@@ -70,3 +70,4 @@ Route::get('students/{student}', [StudentsController::class, 'show']);
 Route::post('/students', [StudentsController::class, 'store']);
 Route::put('students/{student}', [StudentsController::class, 'update']);
 Route::delete('students/{student}', [StudentsController::class, 'destroy']);
+//get things done
